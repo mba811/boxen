@@ -48,3 +48,7 @@ Use the CI.
 ## Halp!
 
 Use Issues or #boxen on irc.freenode.net.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mba811/boxen/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
